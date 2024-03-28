@@ -58,4 +58,3 @@ up4.addEventListener("click", () => {
     contentDiv4.classList.add("hidden");
 });
 
-// *************************    Made By : Gaurav Jain      **********************
